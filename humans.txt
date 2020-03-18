@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Jun Dai> -- <daijun0811@gmail.com> -- <jundai123>
 
 # THANKS
 
