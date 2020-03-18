@@ -23,6 +23,9 @@ file system.
 
 ##How To Contribute
 
+Pleas fork this repository and the issue pull requests for
+review.
+
 ###Copyright
 2014 Git.Training
 
